@@ -39,5 +39,5 @@ Ponnan — $11.2M revenue | 692.2K boxes | 58.92% profit
 - DAX (measures for CY vs PY, Profit %, KPIs)
 - Data Modeling
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
+
+
